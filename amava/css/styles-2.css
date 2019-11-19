@@ -3058,7 +3058,7 @@ a.butn.white:hover, a.butn.white:active {
     animation-timing-function: ease-in-out;
     animation-iteration-count: 1; }
   .services-block.bg-light-gray {
-    background: #f7f7f7; }
+    background: #F9FBFF; }
   .services-block .title-box {
     position: relative;
     padding: 20px 0;
@@ -3386,7 +3386,7 @@ a.butn.white:hover, a.butn.white:active {
   animation-iteration-count: 1; }
 
 .services-block7.bg-light-gray {
-  background: #f7f7f7; }
+  background: #F9FBFF; }
 .services-block7 p {
   margin-bottom: 0;
   line-height: 30px; }
@@ -5677,7 +5677,7 @@ ul.countdown li {
       padding: 15px;
       margin: 30px 0;
       border-left: 2px solid #111;
-      background: #f7f7f7;
+      background: #F9FBFF;
       font-size: 16px; }
     .blogs .post .content .btn {
       border-color: #6f6f6f;
@@ -5754,7 +5754,7 @@ ul.countdown li {
       background-color: #232323;
       color: #fff; }
   .pagination .active a {
-    background-color: #f7f7f7;
+    background-color: #F9FBFF;
     color: #999;
     cursor: default; }
   .pagination .disabled span {
@@ -5840,7 +5840,7 @@ ul.countdown li {
   padding: 0 10px;
   margin: 0;
   border: 1px solid #d1d1d1;
-  background: #f7f7f7;
+  background: #F9FBFF;
   min-height: auto; }
 .side-bar .search form button {
   width: 50px;
