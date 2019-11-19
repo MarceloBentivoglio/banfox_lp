@@ -32,13 +32,13 @@
     22. Blog
     23. Contact info
     24. Footer
-    
+
 ---------------------------------- */
 
 /* Common Color*/
-$PrimaryColor: #292dc2;
+$PrimaryColor: #5433FF;
 $PrimaryRgbColor: rgb(41, 45, 194);
-$SecondaryColor: #0084e9;
+$SecondaryColor: #6686FF;
 
 $desk-xl-screen: 1599px;
 $desk-ml-screen: 1400px;
@@ -971,7 +971,7 @@ input, textarea, select, .form-input {
       content: "";
     }
     i {
-      color: #0084e9;
+      color: #6686FF;
       font-size: 12px;
       background: rgba(0, 132, 233, 0.1);
       margin-right: 12px;
@@ -5567,7 +5567,7 @@ a.butn.white {
   }
 }
 
-/*============================== 
+/*==============================
     Portfolio
 ================================*/
 .portfolio {
@@ -8261,7 +8261,7 @@ footer h4.footer-title-style3 {
     }
   }
 }
- 
+
 
 /*footer social-icon style01*/
 .footer-social-icons1 ul {

@@ -32,7 +32,7 @@
     22. Blog
     23. Contact info
     24. Footer
-    
+
 ---------------------------------- */
 /* Common Color*/
 /* ===================================
@@ -780,7 +780,7 @@ input, textarea, select, .form-input {
     .list-style7 li:before {
       content: ""; }
     .list-style7 li i {
-      color: #0084e9;
+      color: #6686FF;
       font-size: 12px;
       background: rgba(0, 132, 233, 0.1);
       margin-right: 12px;
@@ -4194,7 +4194,7 @@ a.butn.white:hover, a.butn.white:active {
 @media screen and (max-width: 767px) {
   .filtering span {
     margin-right: 15px; } }
-/*============================== 
+/*==============================
     Portfolio
 ================================*/
 .portfolio {
