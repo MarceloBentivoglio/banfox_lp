@@ -32,13 +32,13 @@
     22. Blog
     23. Contact info
     24. Footer
-    
+
 ---------------------------------- */
 
 /* Common Color*/
-$PrimaryColor: #292dc2;
+$PrimaryColor: #5433FF;
 $PrimaryRgbColor: rgb(41, 45, 194);
-$SecondaryColor: #0084e9;
+$SecondaryColor: #6686FF;
 
 $desk-xl-screen: 1599px;
 $desk-ml-screen: 1400px;
@@ -971,7 +971,7 @@ input, textarea, select, .form-input {
       content: "";
     }
     i {
-      color: #0084e9;
+      color: #6686FF;
       font-size: 12px;
       background: rgba(0, 132, 233, 0.1);
       margin-right: 12px;
@@ -4047,7 +4047,7 @@ a.butn.white {
     animation-iteration-count: 1;
   }
   &.bg-light-gray {
-    background: #f7f7f7;
+    background: #F9FBFF;
   }
   .title-box {
     position: relative;
@@ -4496,7 +4496,7 @@ a.butn.white {
 
 .services-block7 {
   &.bg-light-gray {
-    background: #f7f7f7;
+    background: #F9FBFF;
   }
   p {
     margin-bottom: 0;
@@ -5567,7 +5567,7 @@ a.butn.white {
   }
 }
 
-/*============================== 
+/*==============================
     Portfolio
 ================================*/
 .portfolio {
@@ -7483,7 +7483,7 @@ ul.countdown li {
         padding: 15px;
         margin: 30px 0;
         border-left: 2px solid #111;
-        background: #f7f7f7;
+        background: #F9FBFF;
         font-size: 16px;
       }
       .btn {
@@ -7586,7 +7586,7 @@ ul.countdown li {
     }
   }
   .active a {
-    background-color: #f7f7f7;
+    background-color: #F9FBFF;
     color: #999;
     cursor: default;
   }
@@ -7696,7 +7696,7 @@ ul.countdown li {
       padding: 0 10px;
       margin: 0;
       border: 1px solid #d1d1d1;
-      background: #f7f7f7;
+      background: #F9FBFF;
       min-height: auto;
     }
     button {
@@ -8261,7 +8261,7 @@ footer h4.footer-title-style3 {
     }
   }
 }
- 
+
 
 /*footer social-icon style01*/
 .footer-social-icons1 ul {
