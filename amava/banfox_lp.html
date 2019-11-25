@@ -2,7 +2,6 @@
 <html lang="en">
 
 <head>
-
     <!-- metas -->
     <meta charset="utf-8">
     <meta name="author" content="Chitrakoot Web" />
@@ -86,7 +85,8 @@
                             </ul>
 
                             <div class="margin-20px-left sm-display-none">
-                                <a class="butn style-two medium" href="javascript:void(0);">Quero ser Banfox</a>
+                                <a class="butn style-two medium" href="/users/sign_up">Quero ser Banfox</a>
+                                <a class="butn style-two medium" href="/users/sign_in">Já sou Banfox</a>
                             </div>
 
                         </div>
@@ -117,10 +117,9 @@
                             <p class="text-white font-size16 line-height-28 xs-font-size14 xs-line-height-26 margin-30px-bottom sm-margin-20px-bottom width-80 xs-width-90 wow fadeInUp" data-wow-delay=".2s">
                               1º Clube de Financiamento pensado exclusivamente para Fabricantes e Distribuidores Hospitalares. <br> <br> Feito por empreendedores, para empreendedores.
                             </p>
-                            <div class="wow fadeInUp story-video" data-wow-delay=".4s"><a href="javascript:void(0)" class="butn style-two md-lg margin-10px-right vertical-align-middle">Quero ser Banfox</a>
+                            <div class="wow fadeInUp story-video" data-wow-delay=".4s"><a href="/users/sign_up" class="butn style-two md-lg margin-10px-right vertical-align-middle">Quero ser Banfox</a>
                                 <!-- <a href="video/down-time.mp4" class="btn-play video vertical-align-middle"><i class="fa fa-play"></i></a> -->
                             </div>
-
                         </div>
                     </div>
                     <!-- end banner text -->
@@ -250,7 +249,7 @@
                             Ter controle de verdade é poder fazer suas próprias escolhas, poder visualizar e gerenciar seus pagamentos de forma simples e eficiente. E, sempre que quiser, você pode escolher antecipar suas parcelas e receber o desconto proporcional.
                           </p>
 
-                            <a href="javascript:void(0)" class="butn style-two fill md-lg">Quero ser Banfox</a>
+                            <a href="/users/sign_up" class="butn style-two fill md-lg">Quero ser Banfox</a>
                         </div>
 
                     </div>
@@ -358,7 +357,7 @@
                                 </ul>
                             </div>
                             <div class="order">
-                                <a href="javascript:void(0);" class="butn style-two">Quero ser Banfox</a>
+                                <a href="/users/sign_up" class="butn style-two">Quero ser Banfox</a>
                             </div>
                         </div>
                     </div>
@@ -451,7 +450,7 @@
         <!-- end testmonials section -->
 
         <!-- start innovate business section -->
-        <section>
+        <section data-scroll-index="5">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-5 col-md-12 sm-text-center sm-margin-30px-bottom md-margin-five-top sm-no-margin-top">
@@ -592,11 +591,11 @@
 
                     <div class="col-lg-6 col-md-12 order-2 order-lg-1">
 
-                        <form class="rd-mailform" enctype="multipart/form-data" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
+                        <form class="rd-mailform" enctype="multipart/form-data" data-form-output="form-output-global" data-form-type="contact" method="post" action="/api/v1/contact_us/lp_contact">
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-wrap">
-                                        <input class="form-input" type="text" name="first_name" placeholder="Qual o seu Nome?" data-constraints="@Required">
+                                        <input class="form-input" type="text" name="name" placeholder="Qual o seu Nome?" data-constraints="@Required">
                                     </div>
                                 </div>
                                 <div class="col-md-6">
